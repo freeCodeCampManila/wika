@@ -1,2 +1,2 @@
 # wika
-An app for the relearning of the Filipino language and dialects
+An app for relearning of the Filipino language and dialects

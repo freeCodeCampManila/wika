@@ -24,13 +24,13 @@ We are also in need of experts and lecturers in the Philippine dialects.
 
 1. Click on the **FORK** button above to create your own copy of the repository here on Github.
 
-2. Clone your copy on your laptop/PC with **git clone <your_repository_url>**
+2. Clone your copy on your laptop/PC with **`git clone <your_repository_url>`**
 
-3. Create a branch on your local copy with **git checkout -b <branch_name>**
+3. Create a branch on your local copy with **`git checkout -b <branch_name>`**
 
 4. Make changes on files while on the branch.
 
-5. Push your changes on the branch to your remote repository hosted on Github via **git push -u origin <branch_name**
+5. Push your changes on the branch to your remote repository hosted on Github via **`git push -u origin <branch_name>`**
 
 6. Create a **PULL REQUEST** for that branch.
 

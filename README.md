@@ -44,10 +44,6 @@ We will provide a way to directly contact us in the future. Meanwhile, kindly he
 
 *Work in progress.*
 
-# LICENSE
-
-Everyone is free to make copies of the code but no one is allowed to distribute the code or any derivatives especially but not limited to commercial purposes.
-
 [Free Code Camp Manila]: http://www.github.com/freecodecampmanila
 
 [Github Best Practices]: https://github.com/skyscreamer/yoga/wiki/GitHub-Best-Practices
